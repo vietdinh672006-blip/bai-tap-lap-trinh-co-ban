@@ -1,3 +1,4 @@
+'''Program make a simple calculator that can add, subtract, multiply and
 import math
 
 def Tinh(R):
@@ -38,3 +39,4 @@ try:
         
 except ValueError:
     print(f" Lỗi: Giá trị '{R_input}' không phải là một số hợp lệ.")
+
