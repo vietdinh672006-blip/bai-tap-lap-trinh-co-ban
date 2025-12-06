@@ -1,3 +1,8 @@
+print("sinh vien : ho van viet")
+
+print("ma so sv :245751030110099")
+
+print("#############################")
 a = int(input("Nhập số nguyên a: "))
 b = int(input("Nhập số nguyên b: "))
 
@@ -7,3 +12,4 @@ for i in range(a + 1, b):
     if i > 0:
         reciprocal = 1 / i
         print(f"1/{i} = {reciprocal:.6f}")
+
