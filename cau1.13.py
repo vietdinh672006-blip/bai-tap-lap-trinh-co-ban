@@ -1,7 +1,8 @@
-print("Sinh vien: LE TRONG TRUNG")
-print("Ma so SV : 245751030110070")
-print("#############################")
+print("sinh vien : ho van viet")
 
+print("ma so sv :245751030110099")
+
+print("#############################")
 import math
 a = int(input("Nhap he so a: "))
 b = int(input("Nhap he so b: "))
@@ -29,3 +30,4 @@ else:
         print("x1 =", x1)
         print("x2 =", x2)
     
+
