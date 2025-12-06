@@ -1,6 +1,8 @@
+print("sinh vien : ho van viet")
 
-'''Program make a simple calculator that can add, subtract, multiply and
+print("ma so sv :245751030110099")
 
+print("#############################")
 # This function adds two numbers
 def add(x, y):
  return x + y
@@ -32,3 +34,4 @@ elif choice == '4':
   print(num1,"/",num2,"=", divide(num1,num2))
 else:
   print("Invalid input")
+
