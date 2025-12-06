@@ -1,3 +1,9 @@
+print("sinh vien : ho van viet")
+
+print("ma so sv :245751030110099")
+
+print("#############################")
+
 total = 0
 
 while True:
@@ -14,3 +20,4 @@ while True:
         total -= value
 
 print("Số dư cuối:", total)
+
