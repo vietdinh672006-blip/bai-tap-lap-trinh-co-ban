@@ -1,6 +1,8 @@
-'''Program make a simple calculator that can add, subtract, multiply and
-import math
+print("sinh vien : ho van viet")
 
+print("ma so sv :245751030110099")
+
+print("#############################")
 def Tinh(R):
     """Tính chu vi (C) và diện tích (S) hình tròn với bán kính R,
        và kiểm tra R >= 0."""
@@ -39,4 +41,5 @@ try:
         
 except ValueError:
     print(f" Lỗi: Giá trị '{R_input}' không phải là một số hợp lệ.")
+
 
