@@ -1,3 +1,8 @@
+print("sinh vien : ho van viet")
+
+print("ma so sv :245751030110099")
+
+print("#############################")
 '''Program make a simple calculator that can add, subtract, multiply and
 def benefit(t, n, k):
     """Tính tổng tiền (lãi kép) sau k tháng. t là lãi suất %/tháng, n là vốn, k là số tháng."""
@@ -32,5 +37,6 @@ try:
         
 except ValueError:
     print("Lỗi: Vui lòng nhập các giá trị là số hợp lệ.")
+
 
 
