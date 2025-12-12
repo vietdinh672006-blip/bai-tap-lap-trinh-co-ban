@@ -1,3 +1,8 @@
+print("sinh vien : ho van viet")
+
+print("ma so sv :245751030110099")
+
+print("#############################
 import turtle
 
 window = turtle.Screen ()
@@ -15,3 +20,4 @@ def drawsq(t,s) :
   for i in range (1,180) :
    painter.left (18)
    drawsq (painter, 200)
+
