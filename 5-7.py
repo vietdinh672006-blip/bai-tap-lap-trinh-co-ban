@@ -1,3 +1,8 @@
+print("sinh vien : ho van viet")
+
+print("ma so sv :245751030110099")
+
+print("#############################
 # import the modules
 import tkinter
 import random
@@ -103,3 +108,4 @@ e.pack()
 e.focus_set()
 # start the GUI
 root.mainloop()
+
