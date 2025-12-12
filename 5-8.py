@@ -1,3 +1,8 @@
+print("sinh vien : ho van viet")
+
+print("ma so sv :245751030110099")
+
+print("#############################
 import tkinter as tk
 from tkinter import messagebox
 
@@ -89,3 +94,4 @@ btn_click.pack(side=tk.LEFT, padx=15)
 
 
 root.mainloop()
+
